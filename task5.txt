@@ -1,0 +1,11 @@
+part one
+git init
+git clone https://github.com/ShaniFroind/branchtutorial
+git log
+git log --graph
+git branch -r
+git branch
+ git checkout origin/h2
+git branch -vv
+part tow
+git checkout -b newBranch
